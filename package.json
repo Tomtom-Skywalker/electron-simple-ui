@@ -1,0 +1,18 @@
+{
+  "name": "9fxij",
+  "productName": "9fxij",
+  "description": "App description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "your-name",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.1"
+  },
+  "devDependencies": {
+    "electron": "31.2.1"
+  }
+}

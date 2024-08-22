@@ -1,0 +1,14 @@
+@font-face {font-family: custom;src: url(../fonts/Mukta-ExtraBold.ttf);}
+  html,body,div,h1,h1,h3,h4,h5,h6,p,a,code,button{
+    font-family: custom;
+    line-height: 1.5;
+  }
+  .display{
+    font-size:3rem;
+    font-weight:300;
+    line-height:1.2
+}
+.upper { 
+  text-transform: uppercase; 
+}
+
